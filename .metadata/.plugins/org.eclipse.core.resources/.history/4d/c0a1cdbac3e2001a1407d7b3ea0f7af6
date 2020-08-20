@@ -1,0 +1,5 @@
+package ch02_variable_type;
+
+public interface ex2_1 {
+
+}
